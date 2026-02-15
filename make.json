@@ -1,0 +1,8 @@
+{
+    "target": "physic_engine.cpp",
+    "output": "physic_engine.exe",
+    "command": "C:/tekito/C++/mingw64/bin/g++.exe physic_engine.cpp -o physic_engine.exe -I \"C:/download_libraries/SFML-3.0.2-windows-gcc-14.2.0-mingw-64-bit/SFML-3.0.2/include\" -L \"C:/download_libraries/SFML-3.0.2-windows-gcc-14.2.0-mingw-64-bitSFML-3.0.2/lib\" -lsfml-window -lsfml-system -lsfml-graphics",
+    "dependencies": [
+        "physic_engine.hpp"
+    ]
+}
